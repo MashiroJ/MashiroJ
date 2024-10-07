@@ -1,3 +1,8 @@
+<div align="center">
+  <a href="https://blog.sunguoqi.com/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=024EF7&width=435&lines=昨日之深渊,今日之浅谈！&center=true&size=27" alt="Typing SVG" />
+  </a>
+</div>
 <p align="center">
  <img width="100px" src="https://avatars.githubusercontent.com/u/46013989?v=4&size=64" align="center" alt="GitHub Readme Stats" />
  <h2 align="center">MashiroJ</h2>
