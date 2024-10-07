@@ -8,15 +8,15 @@
   <img src="https://raw.githubusercontent.com/MashiroJ/MashiroJ/refs/heads/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
-<p align="center">
- <a href="https://github.com/Mashiro2000">
+<p align="left">
+ <a href="https://github.com/MashiroJ">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MashiroJ&layout=compact&theme=tokyonight"/>
  </a>
 </p>
 
 
-<p align="center">
- <a href="https://github.com/Mashiro2000">
+<p align="right">
+ <a href="https://github.com/MashiroJ">
   <img src="https://github-readme-stats.vercel.app/api?username=Mashiro2000&theme=vue&show_icons=true"/>
  </a>
 </p>
