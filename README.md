@@ -4,4 +4,4 @@
 
 ## 近日总结
 
-[![lgd8981289's GitHub | Languages Over Time](https://stats.quine.sh/lgd8981289/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=lgd8981289)
+[![lgd8981289's GitHub | Languages Over Time](https://stats.quine.sh/MashiroJ/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=MashiroJ)
