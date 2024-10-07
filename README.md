@@ -12,10 +12,11 @@
  <h2 align="center">Mashiro2000</h2>
   <p align="center">让编程改变世界.</p>
 </p>
+### 仓库信息
+![技术栈](https://github-readme-stats.vercel.app/api/top-langs/?username=javadog-net&layout=compact&theme=tokyonight)  
 
 <p align="center">
  <a href="https://github.com/Mashiro2000">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MashiroJ&layout=compact&theme=tokyonight"/>
   <img src="https://github-readme-stats.vercel.app/api?username=Mashiro2000&theme=vue&show_icons=true"/>
  </a>
 </p>
