@@ -10,7 +10,7 @@
 
 <p align="center">
  <a href="https://github.com/MashiroJ">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mashiro2000&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MashiroJ&layout=compact&theme=tokyonight"/>
  </a>
 </p>
 
