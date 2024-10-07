@@ -13,9 +13,8 @@
  </a>
 </p>
  
-
 <p align="center">
  <a href="https://github.com/MashiroJ">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mashiro2000&theme=vue&show_icons=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MashiroJ&theme=vue&show_icons=true"/>
  </a>
 </p>
