@@ -15,7 +15,7 @@
 
 <p align="center">
  <a href="https://github.com/Mashiro2000">
-   ![技术栈](https://github-readme-stats.vercel.app/api/top-langs/?username=MashiroJ&layout=compact&theme=tokyonight) 
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MashiroJ&layout=compact&theme=tokyonight"/>
   <img src="https://github-readme-stats.vercel.app/api?username=Mashiro2000&theme=vue&show_icons=true"/>
  </a>
 </p>
